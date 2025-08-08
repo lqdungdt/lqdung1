@@ -1,6 +1,6 @@
 
 title: Dung Q.Le
-subtitle: Philosophy of ursing
+subtitle: Philosophy of Nursing
 email: lqdung3@gmail.com
 description: "Cảm ơn bạn đã đến với trang của tôi. Đây là nơi chia sẻ mọi điều trong cuộc sống."
 github_username: lqdungdt
@@ -48,28 +48,16 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://lqdungdt.github.io/lqdung1/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lqdungdt/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
