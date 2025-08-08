@@ -1,6 +1,6 @@
 ---
 title: "Lưu niệm"
-layout: categories
+layout: pages
 permalink: /memory/
 author_profile: true
 ---
