@@ -1,11 +1,11 @@
 main:
   - title: "Lưu niệm"
     url: /lecture/
-  - title: "Posts"
+  - title: "Bài viết"
     url: /posts/
-  - title: "Categories"
+  - title: "Nghiên cứu"
     url: /categories/
-  - title: "Tags"
+  - title: "Giảng dạy"
     url: /tags/
   - title: "Me"
     url: /about/
