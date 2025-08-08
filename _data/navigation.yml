@@ -1,6 +1,6 @@
-main:
+memain:
   - title: "Lưu niệm"
-    url: /lecture/
+    url: /memory/
   - title: "Bài viết"
     url: /posts/
   - title: "Nghiên cứu"
