@@ -7,5 +7,5 @@ main:
     url: /categories/
   - title: "Giảng dạy"
     url: /tags/
-  - title: "Me"
+  - title: "Tôi"
     url: /about/
